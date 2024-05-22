@@ -18,4 +18,4 @@ Estos tieflings, descendientes del archidiablo Mefistóteles están dotados de u
 Tiefling de Zariel
 Los tieflings del linaje de Zariel poseen y una fortaleza marcial y son capaces de canalizar un fuego abrazador para castigar a sus enemigos.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

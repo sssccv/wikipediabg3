@@ -18,4 +18,4 @@ Los medianos son sigilosos, pero sociables, Viajan por todo Faerun para hacerse 
 Mediano fortecor/
 Las leyendas dicen que la sangre enana proporcionó a los fortecor sui robustez, Estos medianos, resistentes al veneno y con un aguante excepcional, saben defenderse bien.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

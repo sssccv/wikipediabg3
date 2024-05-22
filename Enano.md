@@ -23,4 +23,4 @@ Las devastadoras consecuencias de antiguas guerras contra goblins y orcos acabar
 Druegar/
 Si bien hubo un tiempo en que vivieron esclavizados por los azotamentes, los druegars se adaptaron a la libertad con pragmatismo. Sus fríos modales y su don para el sigilo son ampliamente conocidos en el Underdark.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

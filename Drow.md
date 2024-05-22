@@ -20,4 +20,4 @@ Criados por la secta de Lolth en la ciudad de Menzoberranzan, estos drows person
 Drow de Seldarine/
 Los drows del Seldarine buscan aliados por todo Faerun, dispuestos a lo que haga falta por zanjar su guerra con Lolth y su conflicto interno.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

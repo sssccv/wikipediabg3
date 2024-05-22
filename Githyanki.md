@@ -12,4 +12,4 @@ Atributos raciales
 
 -prodigio marcial: Una vida dedicada por completo al entrenamiento te ha hecho competente con armaduras ligeras y medias, además de desarrollar tu competencia con la espada corta, la espada larga y el espadón.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

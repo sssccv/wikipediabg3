@@ -21,4 +21,4 @@ Gnomo de las profundidades/
 Los gnomos de las profundidades son más precavidos que sus primos de la superficie.
 Sobreviven en el Underdark gracias a su visión en la oscuridad y su gran capacidad para el sigilo.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

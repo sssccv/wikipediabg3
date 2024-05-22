@@ -22,4 +22,4 @@ los altos elfos, herederos del místico Feywild ,valoran la magia en todas sus f
 Elfo de los bosques/
 Estos elfos viven recluidos en las florestas de Faerun,Dedican décadas a entrenarse en el tiro con arco y el arte del camuflaje, tienen destreza potenciada aún mas por su velocidad casi sobrenatural.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

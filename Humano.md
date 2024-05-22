@@ -10,4 +10,4 @@ Atributos raciales
 
 -Versatilidad humana: Seleccionas una habilidad adicional en la que eres competente. Tu capacidad de carga aumenta en un cuarto del total.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

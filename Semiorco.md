@@ -12,4 +12,4 @@ Atributos raciales
 
 -Ataques salvajes: Al conseguir un crítico con un ataque con arma cuerpo a cuerpo, infliges un dado adicional de daño de arma.
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)

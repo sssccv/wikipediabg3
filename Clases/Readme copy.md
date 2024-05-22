@@ -1,4 +1,3 @@
-
 Razas
 -
 
@@ -24,3 +23,8 @@ Razas
 
 [Mediano](Mediano.md)
 
+
+Clases
+-
+
+[Bárbaro](Bárbaro.md)

@@ -1,7 +1,12 @@
 Elfos
 -
 
-Con su semblante etéreo y su larga esperanza de vida, los elfos se sienten muy cómodos con el poder de la naturaleza. Prosperan tanto en la luz como en la oscuridad.
+Los elfos son un pueblo mágico de gracia sobrenatural, viviendo en el mundo sin ser del todo parte de él. Viven en lugares de etérea belleza, en medio de antiguos bosques o en
+plateados minaretes que resplandecen con luz feérica, donde
+una suave música flota en el aire y delicadas fragancias son
+transportadas por la brisa. Los elfos aman la naturaleza y la
+magia, el arte y la maestría, la música y la poesía, y las cosas
+buenas del mundo.
 
 Atributos raciales
 -

@@ -1,26 +1,53 @@
-Semielfo
--
-Los semielfos son curiosos, ambiciosos y versátiles, además de bienvenidos en todas partes. Por desgracia, no cuentan con una comunidad propia.
+# Semielfo
 
-Atributos raciales
--
--Velocidad base de raza: puedes moverte 9m por turno.
+Caminando entre dos mundos pero sin pertenecer realmente
+a ninguno de los dos, los semielfos combinan lo que algunos
+dicen ser las mejores cualidades de sus progenitores humanos y elfos: la curiosidad, inventiva y ambición humana templada por los sentidos refinados, el amor por el arte y la naturaleza de los elfos. Algunos semielfos viven entre los humanos, separados por sus diferencias emocionales y físicas,
+viendo a amigos y seres queridos envejecer mientras el
+tiempo no les toca a ellos. Otros viven entre los elfos, aumentando su inquietud conforme se acercan a la edad adulta en
+los intemporales reinos élficos, mientras sus compañeros
+continúan viviendo como niños. Muchos semielfos, incapaces
+de encajar en ninguna sociedad, eligen una vida errante en
+solitario o uniéndose a otros inadaptados y marginados en la
+vida aventurera.
 
--Milicia civil: Tienes competencia con armas al usar lanzas, picas, alabardas y gujas y competencia con armaduras al usar armaduras y escudos de tipo ligero.
+## Atributos raciales
 
--Visión en la oscuridad: Visión en la oscuridad a una distancia de 12m.
+Tu personaje semielfo tiene algunas cualidades en común
+con los elfos y otras que son únicas de los semielfos.
 
--Linaje feérico: Tienes ventaja en las tiradas de salvación cuando intentan hechizarte, además, no es posible obligarte a dormir por medios mágicos.
+- Incremento de Puntuación de Característica. Tu puntuación de Carisma aumenta en 2 y otras dos puntuaciones a
+tu elección aumentan en 1.
 
-Subrazas
--
-Alto semielfo/
-Un toque de Feywild perdura en los semielfos de este linaje, e incluso aquellos sin formación mágica poseen una pizca de poder salvaje.
+- Edad. Los semielfos maduran a la misma velocidad que
+los humanos y alcanzan la adultez alrededor de los 20 años.
+Viven, sin embargo, mucho más que los humanos, excediendo a menudo los 180 años.
 
-Semielfo de los bosques/
-Al igual que sus progenitores elfos de los bosques, estos semielfos son de zancada rápida y tienen facilidad para el sigilo. Sin embargo, muchos abandonan el aislamiento de los bosques de Faerun para explorar el resto de los reinos.
+- Alineamiento. Los semielfos comparten la inclinación
+caótica de su herencia élfica. Valoran tanto la libertad personal como la expresión creativa, no demostrando amor por los
+líderes ni deseo de seguidores. Les fastidian las reglas, molestándose con las demandas de los demás, y en ocasiones se
+muestran poco fiables o por lo menos impredecibles.
 
-Semielfo drow/
-La mayoría de los semidrows son resultado de las relaciones entre drows del Seldarine y criaturas de la superficie. Los semidrows heredaron algunos dones mágicos, pero suelen criarse en el Underdark.
+- Tamaño. Los semielfos son casi del mismo tamaño que
+los humanos, midiendo entre 5 y 6 pies (1.5m — 1.8m). Tu
+tamaño es Mediano.
+
+- Velocidad. Tu velocidad base a pie es de 30 pies.
+
+- Visión en la Oscuridad. Gracias a tu sangre élfica, tienes
+una visión superior en la oscuridad y la luz tenue. Puedes ver
+en luz tenue hasta los 60 (18 m) pies como si fuera a plena
+luz, y en la oscuridad como si fuera en luz tenue. No puedes
+distinguir colores en la oscuridad, sólo tonos de gris.
+
+- Ascendencia Feérica. Tienes ventaja en las tiradas de
+salvación contra Encantamiento, y no puedes ser dormido
+mediante la magia.
+
+- Versatilidad con Habilidades. Ganas competencia en
+dos habilidades a tu elección.
+
+- Idiomas. Puedes hablar, leer y escribir Común, Élfico y
+otro idioma de tu elección.
 
 [Readme.md](README.md)

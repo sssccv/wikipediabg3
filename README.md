@@ -1,24 +1,23 @@
 
 Razas
 -
+[Enano](Enano.md)
 
 [ Elfos](Elfos.md)
 
-[Gnomo](Gnomo.md)
+[Mediano](Mediano.md)
 
-[Tiefling](Tiefling.md)
-
-[Enano](Enano.md)
+[Humano](Humano.md)
 
 [Dracónido](Dracónido.md)
+
+[Gnomo](Gnomo.md)
 
 [Semielfo](Semielfo.md)
 
 [Semiorco](Semiorco.md)
 
-[Humano](Humano.md)
-
-[Mediano](Mediano.md)
+[Tiflin](Tiflin.md)
 
 Clases
 -

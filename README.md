@@ -25,22 +25,28 @@
 
 [Bárdo](Bárdo.md)
 
+[Brujo](Brujo.md)
+
 [Clérigo](Clérigo.md)
 
 [Druida](Druida.md)
 
+[Explorador](Exploradod.md)
+
 [Guerrero](Guerrero.md)
+
+[Hechizero](Hechizero.md)
+
+[Mago](Mago.md)
 
 [Monje](Monje.md)
 
 [Paladín](Paladín.md)
 
-[Explorador](Exploradod.md)
-
 [Pícaro](Pícaro.md)
 
-[Hechizero](Hechizero.md)
 
-[Brujo](Brujo.md)
 
-[Mago](Mago.md)
+
+
+

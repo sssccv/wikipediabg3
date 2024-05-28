@@ -21,4 +21,55 @@ ira frente a un mundo lleno de dolor. Para los bárbaros, la
 furia es un poder que no sólo les proporciona un frenesí ciego
 en la batalla, sino también extraordinarios reflejos, resistencia y proezas de fuerza.
 
+## Rasgos de la clase
+
+Como bárbaro, ganas los siguientes rasgos de clase.
+
+### Puntos de golpe
+
+- Dado de Golpe: 1d12 por nivel de bárbaro.
+Puntos de Golpe en primer nivel: 12 + tu modificador de
+Constitución.
+
+- Puntos de Golpe a niveles superiores: 1d12 (o 7) + tu modificador de Constitución por nivel de bárbaro después del primer nivel.
+
+### Competencias
+- Armadura: armadura ligera, armadura media, escudos.
+
+- Armas: armas simples, armas marciales.
+
+- Herramientas: ninguna.
+
+- Tiradas de Salvación: Fuerza, Constitución.
+
+- Habilidades: escoge dos de entre Atletismo, Intimidación,
+
+- Naturaleza, Percepción, Supervivencia y Manejo de Animales.
+
+### Furia
+En combate, luchas con una ferocidad primitiva. En tu turno,
+puedes entrar en furia como acción adicional.
+
+### Defensa sin armadura
+Mientras no lleves ninguna armadura, tu Clase de Armadura
+será de 10 + Modificador de Destreza + Modificador de Constitución.
+
+## Subclases (Sendas)
+
+### Senda del Berserker
+
+Para algunos bárbaros, la furia es un medio para un fin, que
+generalmente es la propia violencia. La Senda del Berserker es un camino de furia desatada repleto de sangre. Cuando entras en la furia del berserker te sumerges en el caos de la batalla, sin preocuparte de tu salud o tu bienestar.
+
+### Guerrero Totémico
+
+La Senda del Guerrero Totémico es un camino espiritual; el bárbaro acepta el espíritu animal como guía, protector e inspiración. En la batalla, el espíritu de tu tótem te inunda con
+un poder sobrenatural, añadiendo fuerza mágica a tu furia de
+bárbaro.
+
+La mayoría de las tribus bárbaras consideran que un tótem animal se relaciona con un clan en particular. En esos
+casos, es inusual que un individuo tenga más de un espíritu
+tótem animal, aunque existen algunas excepciones.
+
+
 [Readme.md](README.md)

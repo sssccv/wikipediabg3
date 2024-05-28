@@ -1,6 +1,6 @@
 
-Razas
--
+## Razas
+
 [Enano](Enano.md)
 
 [ Elfos](Elfos.md)
@@ -19,8 +19,8 @@ Razas
 
 [Tiflin](Tiflin.md)
 
-Clases
--
+## Clases
+
 [Bárbaro](Bárbaro.md)
 
 [Bárdo](Bárdo.md)

@@ -4,8 +4,6 @@ Razas
 
 [ Elfos](Elfos.md)
 
-[ Githyanki](Githyanki.md)
-
 [Gnomo](Gnomo.md)
 
 [Tiefling](Tiefling.md)
@@ -13,8 +11,6 @@ Razas
 [Enano](Enano.md)
 
 [Dracónido](Dracónido.md)
-
-[Drow](Drow.md)
 
 [Semielfo](Semielfo.md)
 

@@ -1,0 +1,43 @@
+# Tiflin
+
+Ser recibido con miradas y susurros, sufrir violencia e insultos en la calle, ver la desconfianza y el miedo en todos los ojos:
+este es el destino de los tiflin. Y para retorcer el puñal, los
+tiflin saben que esto es a causa de un pacto sellado hace generaciones que infundió la esencia de Asmodeo —señor supremo de los Nueve Infiernos— en su linaje. Su apariencia y
+su naturaleza no tienen más culpa que el resultado de un antiguo pecado, por el que ellos y sus hijos, y los hijos de sus
+hijos, siempre se considerarán responsables.
+
+
+## Atributos raciales
+
+Los tiflin comparten ciertos rasgos raciales como resultado
+de su descendencia infernal.
+
+- Incremento de Puntuación de Característica. Tu puntuación de Inteligencia se incrementa en 1, y tu puntuación
+de Carisma se incrementa en 2.
+
+- Edad. Los tiflin maduran a la misma velocidad que los humanos pero viven unos pocos años más.
+
+- Alineamiento. Los tiflin no tienen una tendencia innata
+hacia el mal, pero muchos de ellos acaban allí. Malvados o no,
+su naturaleza independiente inclina a muchos tiflin hacia un
+alineamiento caótico.
+
+- Tamaño. Los tiflin son más o menos del mismo tamaño y
+complexión que los humanos. Tu tamaño es Mediano.
+
+- Velocidad. Tu velocidad base a pie es de 30 pies.
+
+- Visión en la Oscuridad. Gracias a tu herencia infernal,
+tienes una visión superior en condiciones de oscuridad y penumbra. Puedes ver en luz tenue dentro de 60 pies como si
+estuviera bien iluminado, y en la oscuridad como si hubiese
+luz tenue. No puedes discernir colores en la oscuridad, sólo
+tonos de gris.
+
+- Resistencia Infernal. Posees resistencia al daño por
+fuego.
+
+- Legado Infernal. Conoces el truco taumaturgia. Una vez
+alcances el nivel 3, puedes conjurar el truco reprensión infernal una vez al día como si fuese un conjuro de nivel 2. Una
+vez alcances el nivel 5, puedes lanzar también el conjuro oscuridad una vez al día. El Carisma es tu característica de lanzamiento para estos conjuros.
+
+- Idiomas. Puedes hablar, leer y escribir Común e Infernal.

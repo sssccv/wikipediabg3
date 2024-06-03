@@ -3,27 +3,27 @@ document.addEventListener('DOMContentLoaded', function () {
     const suggestions = document.getElementById('suggestions');
   
     const items = [
-      { name: 'Dracónido', <a href="/Dracónido"></a>},
-      { name: 'Aliado de la justicia', link: 'https://rjddd.github.io/YUGIOHWIKI/aliado-de-la-justicia/' },
-      { name: 'Amazoness', link: 'https://rjddd.github.io/YUGIOHWIKI/amazoness/' },
-      { name: 'Artistamigo', link: 'https://rjddd.github.io/YUGIOHWIKI/artistamigo/' },
-      { name: 'Brillo Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/brillo-negro/' },
-      { name: 'Buster Blader', link: 'https://rjddd.github.io/YUGIOHWIKI/buster-blader/' },
-      { name: 'Cuidadores de tumbas', link: 'https://rjddd.github.io/YUGIOHWIKI/cuidadores-de-tumbas/' },
-      { name: 'Dragon Blanco', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-blanco/' },
-      { name: 'Dragon del Trueno', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-del-trueno/' },
-      { name: 'Dragon Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/dragon-negro/' },
-      { name: 'Guerrero Magnetico', link: 'https://rjddd.github.io/YUGIOHWIKI/guerrero-magnetico/' },
-      { name: 'Harpies', link: 'https://rjddd.github.io/YUGIOHWIKI/harpies/' },
-      { name: 'Heroes Elementales', link: 'https://rjddd.github.io/YUGIOHWIKI/heroes-elementales/' },
-      { name: 'Hieratico', link: 'https://rjddd.github.io/YUGIOHWIKI/hieratico/' },
-      { name: 'Lunaluz', link: 'https://rjddd.github.io/YUGIOHWIKI/lunaluz/' },
-      { name: 'Mago Negro', link: 'https://rjddd.github.io/YUGIOHWIKI/mago-negro/' },
-      { name: 'Mekk Caballero', link: 'https://rjddd.github.io/YUGIOHWIKI/mekk-caballero/' },
-      { name: 'Naturia', link: 'https://rjddd.github.io/YUGIOHWIKI/naturia/' },
-      { name: 'Ninja', link: 'https://rjddd.github.io/YUGIOHWIKI/ninja/' },
-      { name: 'Toon', link: 'https://rjddd.github.io/YUGIOHWIKI/toon/' }
-      // Agrega más elementos aquí
+      { name: 'Dracónido', link: 'http://localhost:7777/Dracónido/' },
+      { name: 'Elfos', link: 'http://localhost:7777/Elfos/' },
+      { name: 'Enano', link: 'http://localhost:7777/Enano/'},
+      { name: 'Gnomo', link: 'http://localhost:7777/Gnomo/' },
+      { name: 'Humano', link: 'http://localhost:7777/Humano/' },
+      { name: 'Mediano', link: 'http://localhost:7777/Mediano/' },
+      { name: 'Semielfo', link: 'http://localhost:7777/Semielfo/' },
+      { name: 'Semiorco', link: 'http://localhost:7777/Semiorco/' },
+      { name: 'Tiflin', link: 'http://localhost:7777/Tiflin/' },
+      { name: 'Bárbaro', link: 'http://localhost:7777/Bárbaro/' },
+      { name: 'Bárdo', link: 'http://localhost:7777/Bárdo/' },
+      { name: 'Brujo', link: 'http://localhost:7777/Brujo/' },
+      { name: 'Clérigo', link: 'http://localhost:7777/Clérigo/' },
+      { name: 'Druida', link: 'http://localhost:7777/Druida/' },
+      { name: 'Explorador', link: 'http://localhost:7777/Explorador/' },
+      { name: 'Guerrero', link: 'http://localhost:7777/Guerrero/' },
+      { name: 'Hechicero', link: 'http://localhost:7777/Hechicero/' },
+      { name: 'Mago', link: 'http://localhost:7777/Mago/' },
+      { name: 'Monje', link: 'http://localhost:7777/Monje/' },
+      { name: 'Paladín', link: 'http://localhost:7777/Paladín/' },
+      { name: 'Pícaro', link: 'http://localhost:7777/Pícaro/' }
     ];
   
     searchInput.addEventListener('input', function () {
